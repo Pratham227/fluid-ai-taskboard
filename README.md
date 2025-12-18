@@ -42,22 +42,18 @@ This small UX enhancement helps reduce cognitive load and encourages task comple
 ---
 
 ## 🏗️ Project Structure
+fluid-ai-task-board/
+│
 ├── backend/
-│   ├── app/
-│   │   ├── __init__.py
-│   │   ├── models.py      # Pydantic models (Task, TaskCreate, TaskUpdate)
-│   │   ├── routes.py      # API endpoints
-│   │   └── storage.py     # In-memory task storage
-│   └── main.py            # FastAPI app entry point
+│ ├── main.py # FastAPI app and routes
+│ ├── models.py # Task data model
+│ └── storage.py # In-memory task storage
+│
 ├── frontend/
-│   ├── src/
-│   │   ├── App.jsx        # Main React component
-│   │   ├── App.css        # Component styles
-│   │   ├── index.css      # Tailwind imports
-│   │   └── main.jsx       # React entry point
-│   ├── vite.config.js     # Vite config with proxy
-│   └── package.json
-└── replit.md                                                                                                                                                                                                        
+│ └── index.html # Frontend UI
+│
+├── requirements.txt
+└── README.md
 
 ## API Endpoints
 POST /tasks - Create a new task
