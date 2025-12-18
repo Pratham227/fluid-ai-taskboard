@@ -6,6 +6,7 @@ The goal of this project was to demonstrate clean Python backend design, simple 
 
 ---
 
+
 Project Structure
 ├── backend/
 │   ├── app/
