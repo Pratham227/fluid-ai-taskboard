@@ -5,6 +5,7 @@ A lightweight full-stack Task Board application built as part of a time-boxed en
 The goal of this project was to demonstrate clean Python backend design, simple and well-structured APIs, frontend–backend integration, and thoughtful UI/UX decisions — all within a limited time constraint.
 
 ---
+
 Project Structure
 ├── backend/
 │   ├── app/
