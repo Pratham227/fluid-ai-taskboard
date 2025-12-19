@@ -7,7 +7,7 @@ This project demonstrates how to quickly design, build, and ship a complete prod
 ---
 
 ## 🔗 Live Demo
-- **Preview:** <https://d06aa0a9-223f-4757-b2f4-e7e8d4b59f7a-00-3rydbv2k8q8co.sisko.replit.dev/>
+- **Preview:** <https://d06aa0a9-223f-4757-b2f4-e7e8d4b59f7a-00-3rydbv2k8q8co.sisko.replit.dev:5000/>
 - **Walkthrough (2 min Loom):** <Loom Video URL>
 
 ---
